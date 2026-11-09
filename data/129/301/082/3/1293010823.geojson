@@ -42,7 +42,7 @@
         "wk:page":"Tanakou"
     },
     "wof:country":"TG",
-    "wof:geomhash":"7d1e6ac824ab46d459981765ce612127",
+    "wof:geomhash":"b8cf2eff1fc283324a3222029ebac04f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     1.31667,
     10.0
 ],
-  "geometry": {"coordinates":[1.31667,10.0],"type":"Point"}
+  "geometry": {"coordinates":[1.31667,10],"type":"Point"}
 }

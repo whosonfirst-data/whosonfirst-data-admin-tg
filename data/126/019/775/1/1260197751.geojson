@@ -42,7 +42,7 @@
         "wk:page":"Tabalo"
     },
     "wof:country":"TG",
-    "wof:geomhash":"35af569421a4cb37cc0945154b29204e",
+    "wof:geomhash":"15ecb927917d04a1a7d469f08789fc2f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     1.0,
     9.21667
 ],
-  "geometry": {"coordinates":[1.0,9.21667],"type":"Point"}
+  "geometry": {"coordinates":[1,9.21667],"type":"Point"}
 }

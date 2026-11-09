@@ -45,7 +45,7 @@
         "wk:page":"Selebino"
     },
     "wof:country":"TG",
-    "wof:geomhash":"eac4c49730f1e5f0564cd3383ab843e4",
+    "wof:geomhash":"81d559a4c249a1147157524d217cc66f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     1.2,
     10.0
 ],
-  "geometry": {"coordinates":[1.2,10.0],"type":"Point"}
+  "geometry": {"coordinates":[1.2,10],"type":"Point"}
 }

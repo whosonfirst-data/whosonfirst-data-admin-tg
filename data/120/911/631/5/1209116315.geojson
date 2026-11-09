@@ -80,7 +80,7 @@
         "gn:id":2367974
     },
     "wof:country":"TG",
-    "wof:geomhash":"3b6e77ffd8041fbe620427d9d453e6d4",
+    "wof:geomhash":"284b7dfc8f0ba8cb972498440e4f75e5",
     "wof:hierarchy":[
         {
             "country_id":85632647,
@@ -103,5 +103,5 @@
     1.0,
     9.91667
 ],
-  "geometry": {"coordinates":[1.0,9.91667],"type":"Point"}
+  "geometry": {"coordinates":[1,9.91667],"type":"Point"}
 }

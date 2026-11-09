@@ -45,7 +45,7 @@
         "wk:page":"Ntounkwe"
     },
     "wof:country":"TG",
-    "wof:geomhash":"fde24ebf3602e429e9dbec5aedf0116d",
+    "wof:geomhash":"0422abef0998ff6626faa89f4b58b227",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     1.33333,
     10.0
 ],
-  "geometry": {"coordinates":[1.33333,10.0],"type":"Point"}
+  "geometry": {"coordinates":[1.33333,10],"type":"Point"}
 }
