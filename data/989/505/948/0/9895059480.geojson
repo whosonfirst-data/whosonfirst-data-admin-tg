@@ -1,0 +1,74 @@
+{
+  "id": 9895059480,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.29473,10.91574,0.29473,10.91574",
+    "geom:latitude":10.91574,
+    "geom:longitude":0.29473,
+    "iso:country":"TG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645285: name \"Kabilagou II\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645285"
+        },
+        {
+            "citation":"GeoNames populated place 13645285: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645285"
+        },
+        {
+            "citation":"GeoNames populated place 13645285: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645285"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561157 (Tone), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647,
+        85678549,
+        102191573,
+        1108561157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645285
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"4539e1b168cd5120021965594017e26d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561157,
+            "locality_id":9895059480,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":9895059480,
+    "wof:lastmodified":1795735114,
+    "wof:name":"Kabilagou II",
+    "wof:parent_id":1108561157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.29473,
+    10.91574,
+    0.29473,
+    10.91574
+],
+  "geometry": {"coordinates":[0.29473,10.91574],"type":"Point"}
+}

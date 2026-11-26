@@ -1,0 +1,74 @@
+{
+  "id": 9895059438,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.88361,10.91069,0.88361,10.91069",
+    "geom:latitude":10.91069,
+    "geom:longitude":0.88361,
+    "iso:country":"TG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12511229: name \"Gniengou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12511229"
+        },
+        {
+            "citation":"GeoNames populated place 12511229: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12511229"
+        },
+        {
+            "citation":"GeoNames populated place 12511229: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12511229"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421191833 (Kpendjal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647,
+        85678549,
+        102191573,
+        421191833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12511229
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"6e5384f534eb036d5030003d8712f0a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421191833,
+            "locality_id":9895059438,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":9895059438,
+    "wof:lastmodified":1795735114,
+    "wof:name":"Gniengou",
+    "wof:parent_id":421191833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.88361,
+    10.91069,
+    0.88361,
+    10.91069
+],
+  "geometry": {"coordinates":[0.88361,10.91069],"type":"Point"}
+}
