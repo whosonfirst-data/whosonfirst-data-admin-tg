@@ -1,0 +1,74 @@
+{
+  "id": 9895059461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.53549,10.91439,0.53549,10.91439",
+    "geom:latitude":10.91439,
+    "geom:longitude":0.53549,
+    "iso:country":"TG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12902548: name \"Dielo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12902548"
+        },
+        {
+            "citation":"GeoNames populated place 12902548: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12902548"
+        },
+        {
+            "citation":"GeoNames populated place 12902548: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12902548"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421191833 (Kpendjal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647,
+        85678549,
+        102191573,
+        421191833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12902548
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"9e09ac32f49e8a8790c9f86928e5b387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421191833,
+            "locality_id":9895059461,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":9895059461,
+    "wof:lastmodified":1795735114,
+    "wof:name":"Dielo",
+    "wof:parent_id":421191833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.53549,
+    10.91439,
+    0.53549,
+    10.91439
+],
+  "geometry": {"coordinates":[0.53549,10.91439],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895059436,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.40448,10.96408,0.40448,10.96408",
+    "geom:latitude":10.96408,
+    "geom:longitude":0.40448,
+    "iso:country":"TG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12501060: name \"Topiengue\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12501060"
+        },
+        {
+            "citation":"GeoNames populated place 12501060: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12501060"
+        },
+        {
+            "citation":"GeoNames populated place 12501060: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12501060"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561157 (Tone), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647,
+        85678549,
+        102191573,
+        1108561157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12501060
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"ef104989cce55f766b154c514be29bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561157,
+            "locality_id":9895059436,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":9895059436,
+    "wof:lastmodified":1795735114,
+    "wof:name":"Topiengue",
+    "wof:parent_id":1108561157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.40448,
+    10.96408,
+    0.40448,
+    10.96408
+],
+  "geometry": {"coordinates":[0.40448,10.96408],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895059454,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.20875,10.42876,0.20875,10.42876",
+    "geom:latitude":10.42876,
+    "geom:longitude":0.20875,
+    "iso:country":"TG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12750415: name \"Nagouni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12750415"
+        },
+        {
+            "citation":"GeoNames populated place 12750415: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12750415"
+        },
+        {
+            "citation":"GeoNames populated place 12750415: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12750415"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561159 (Tandjouare), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647,
+        85678549,
+        102191573,
+        1108561159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12750415
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"6bdb43893c6524d4e9666a1bf514ddae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561159,
+            "locality_id":9895059454,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":9895059454,
+    "wof:lastmodified":1795735114,
+    "wof:name":"Nagouni",
+    "wof:parent_id":1108561159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.20875,
+    10.42876,
+    0.20875,
+    10.42876
+],
+  "geometry": {"coordinates":[0.20875,10.42876],"type":"Point"}
+}

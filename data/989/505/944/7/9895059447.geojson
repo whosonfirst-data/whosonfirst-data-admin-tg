@@ -1,0 +1,74 @@
+{
+  "id": 9895059447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.75648,10.88793,0.75648,10.88793",
+    "geom:latitude":10.88793,
+    "geom:longitude":0.75648,
+    "iso:country":"TG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12746388: name \"Kpakparga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12746388"
+        },
+        {
+            "citation":"GeoNames populated place 12746388: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12746388"
+        },
+        {
+            "citation":"GeoNames populated place 12746388: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12746388"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421191833 (Kpendjal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647,
+        85678549,
+        102191573,
+        421191833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12746388
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"82b2d112ad3d28e0f9ef8f08b204f6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":421191833,
+            "locality_id":9895059447,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":9895059447,
+    "wof:lastmodified":1795735114,
+    "wof:name":"Kpakparga",
+    "wof:parent_id":421191833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.75648,
+    10.88793,
+    0.75648,
+    10.88793
+],
+  "geometry": {"coordinates":[0.75648,10.88793],"type":"Point"}
+}

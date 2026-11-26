@@ -1,0 +1,74 @@
+{
+  "id": 9895059484,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.45505,10.62713,0.45505,10.62713",
+    "geom:latitude":10.62713,
+    "geom:longitude":0.45505,
+    "iso:country":"TG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645289: name \"Mamaga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645289"
+        },
+        {
+            "citation":"GeoNames populated place 13645289: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645289"
+        },
+        {
+            "citation":"GeoNames populated place 13645289: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645289"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561161 (Oti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632647,
+        85678549,
+        102191573,
+        1108561161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645289
+    },
+    "wof:country":"TG",
+    "wof:geomhash":"7aa5de7dcb737d818659208423b3571f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632647,
+            "county_id":1108561161,
+            "locality_id":9895059484,
+            "region_id":85678549
+        }
+    ],
+    "wof:id":9895059484,
+    "wof:lastmodified":1795735114,
+    "wof:name":"Mamaga",
+    "wof:parent_id":1108561161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.45505,
+    10.62713,
+    0.45505,
+    10.62713
+],
+  "geometry": {"coordinates":[0.45505,10.62713],"type":"Point"}
+}
